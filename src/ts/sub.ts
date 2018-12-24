@@ -1,0 +1,1 @@
+export function fun() { console.log('sub') }
